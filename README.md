@@ -2,38 +2,23 @@
 
 I'm passionate about developing applications and seeing them come to life. My current focus is on expanding my skills in React and TypeScript. 🚀
 
-## Languages 💻
-- JavaScript 🚀
-- TypeScript 🤖
-- Java ☕
-- CSS 🎨
-- HTML 🌍
+Here are the languages, frameworks, tools, and other technologies that I have used/use:
 
-## Frameworks 🛠️
-- Node.js 🟢
-- NestJS 🔥
-- Spring 🌸
+| Languages 💻 | Frameworks 🛠️ | Tools 🧰 |
+| --- | --- | --- |
+| JavaScript 🚀 | Node.js 🟢 | Docker 🐳 |
+| TypeScript 🤖 | NestJS 🔥 | Redis 🗃️ |
+| Java ☕ | Spring 🌸 | RabbitMQ 🐇 |
+| CSS 🎨 | | |
+| HTML 🌍 | | |
 
-## Tools 🧰
-- Docker 🐳
-- Redis 🗃️
-- RabbitMQ 🐇
-
-## Front-end 🖥️
-- React ⚛️
-- Axios 🚀
-- Figma 🎨
-
-## Databases 🗄️
-- MySQL 🐬
-- PostgreSQL 🐘
-
-## Miscellaneous 🌟
-- GCP ☁️
-- Postman 📮
+| Front-end 🖥️ | Databases 🗄️ | Miscellaneous 🌟 |
+| --- | --- | --- |
+| React ⚛️ | MySQL 🐬 | GCP ☁️ |
+| Axios 🚀 | PostgreSQL 🐘 | Postman 📮 |
+| Figma 🎨 | | |
 
 If you're interested in collaborating or want to learn more, feel free to reach out! 🤝🏽
-
 
 <!--
 **SMelidoni/SMelidoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
