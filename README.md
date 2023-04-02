@@ -2,21 +2,13 @@
 
 I'm passionate about developing applications and seeing them come to life. My current focus is on expanding my skills in React and TypeScript. 🚀
 
-Here are the languages, frameworks, tools, and other technologies that I have used/use:
+Here are the languages, frameworks, tools, and other technologies that I've used/use:
 
-| Languages 💻 | Frameworks 🛠️ | Tools 🧰 |
-| --- | --- | --- |
-| JavaScript 🚀 | Node.js 🟢 | Docker 🐳 |
-| TypeScript 🤖 | NestJS 🔥 | Redis 🗃️ |
-| Java ☕ | Spring 🌸 | RabbitMQ 🐇 |
-| CSS 🎨 | | |
-| HTML 🌍 | | |
-
-| Front-end 🖥️ | Databases 🗄️ | Miscellaneous 🌟 |
-| --- | --- | --- |
-| React ⚛️ | MySQL 🐬 | GCP ☁️ |
-| Axios 🚀 | PostgreSQL 🐘 | Postman 📮 |
-| Figma 🎨 | | |
+| 💻 Languages | 🛠️ Frameworks | 🧰 Tools | 🖥️ Front-end | 🗄️ Databases | 🌟 Miscellaneous |
+| --- | --- | --- | --- | --- | --- |
+| JavaScript 🚀 | Node.js 🟢 | Docker 🐳 | React ⚛️ | MySQL 🐬 | GCP ☁️ |
+| TypeScript 🤖 | NestJS 🔥 | Redis 🗃️ | Axios 🚀 | PostgreSQL 🐘 | Postman 📮 |
+| Java ☕ | Spring 🌸 | RabbitMQ 🐇 | Figma 🎨 | | |
 
 If you're interested in collaborating or want to learn more, feel free to reach out! 🤝🏽
 
