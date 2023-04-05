@@ -2,6 +2,8 @@
 
 I'm passionate about developing applications and seeing them come to life. My current focus is on expanding my skills in React and TypeScript. 🚀
 
+Current project I'm working on: [React App Collection](https://github.com/SMelidoni/react-app-collection) (See README.md for more info)
+
 Here are the languages, frameworks, tools, and other technologies that I've used/use:
 
 | 💻 Languages | 🛠️ Frameworks | 🧰 Tools | 🖥️ Front-end | 🗄️ Databases | 🌟 Miscellaneous |
