@@ -10,7 +10,7 @@ Here are the languages, frameworks, tools, and other technologies that I've used
 | --- | --- | --- | --- | --- | --- |
 | CSS/SASS 🎨 | NestJS 🦁 | Docker 🐳 | Axios 🚀 | MySQL 🐬 | Bootstrap 🥾 |
 | HTML 📄 | Node.js ⬡ | RabbitMQ 🐇 | Figma 🖌️ | PostgreSQL 🐘 | GCP ☁️ |
-| JavaScript ☕ | Spring 🌱 | Redis 🗃️ | React ⚛️ | SQL Developer 💾 | Postman 📮 |
+| JavaScript ☕ | Spring 🌱 | Redux 🔄 | React ⚛️ | SQL Developer 💾 | Postman 📮 |
 | TypeScript 🤖 | | REST 🌐 | WordPress 📝 | | |
 
 If you're interested in collaborating or want to learn more, feel free to reach out! 🤝🏽
