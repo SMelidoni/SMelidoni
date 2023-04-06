@@ -6,10 +6,10 @@ I'm passionate about building innovative applications and bringing them to life.
 
 ## My Tech Stack 🛠️
 
-| 💻 Languages | 🌐 Frameworks | 🧰 Tools & Platforms | 🖥️ Front-end | 🗄️ Databases | 🌟 Miscellaneous |
-| --- | --- | --- | --- | --- | --- |
+| <div align="center">💻<br/>Languages</div> | <div align="center">🌐<br/>Frameworks</div> | <div align="center">🧰<br/>Tools & Platforms</div> | <div align="center">🖥️<br/>Front-end</div> | <div align="center">🗄️<br/>Databases</div> | <div align="center">🌟<br/>Miscellaneous</div> |
+| :---: | :---: | :---: | :---: | :---: | :---: |
 | CSS/SASS 🎨 | NestJS 🦁 | Docker 🐳 | Axios 🚀 | MySQL 🐬 | Bootstrap 🥾 |
-| HTML 📄 | Node.js ⬡ | RabbitMQ 🐇 | Figma 🖌️ | PostgreSQL 🐘 | Google Cloud Platform ☁️ |
+| HTML 📄 | Node.js ⬡ | RabbitMQ 🐇 | Figma 🖌️ | PostgreSQL 🐘 | GCP ☁️ |
 | JavaScript ☕ | Spring 🌱 | Redux 🔄 | React ⚛️ | SQL Developer 💾 | Postman 📮 |
 | TypeScript 🤖 | | RESTful APIs 🌐 | WordPress 📝 | | |
 
