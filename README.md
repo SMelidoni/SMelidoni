@@ -1,31 +1,25 @@
-# Hi there, I'm a Software Engineer! 👋🏽
+# Hello, I'm a Software Engineer and Creator! 🚀👋🏽
 
-I'm passionate about developing applications and seeing them come to life. My current focus is on expanding my skills in React and TypeScript. 🚀
+I'm passionate about building innovative applications and bringing them to life. Currently, I'm honing my skills in React and TypeScript. 💻
 
-Current project I'm working on: [React App Collection](https://github.com/SMelidoni/react-app-collection) (See README.md for more info)
+🔧 **Current Project:** [React App Collection](https://github.com/SMelidoni/react-app-collection) (Check the README.md for details!)
 
-Here are the languages, frameworks, tools, and other technologies that I've used/use:
+## My Tech Stack 🛠️
 
-| 💻 Languages | 🛠️ Frameworks | 🧰 Tools | 🖥️ Front-end | 🗄️ Databases | 🌟 Miscellaneous |
+| 💻 Languages | 🌐 Frameworks | 🧰 Tools & Platforms | 🖥️ Front-end | 🗄️ Databases | 🌟 Miscellaneous |
 | --- | --- | --- | --- | --- | --- |
 | CSS/SASS 🎨 | NestJS 🦁 | Docker 🐳 | Axios 🚀 | MySQL 🐬 | Bootstrap 🥾 |
-| HTML 📄 | Node.js ⬡ | RabbitMQ 🐇 | Figma 🖌️ | PostgreSQL 🐘 | GCP ☁️ |
+| HTML 📄 | Node.js ⬡ | RabbitMQ 🐇 | Figma 🖌️ | PostgreSQL 🐘 | Google Cloud Platform ☁️ |
 | JavaScript ☕ | Spring 🌱 | Redux 🔄 | React ⚛️ | SQL Developer 💾 | Postman 📮 |
-| TypeScript 🤖 | | REST 🌐 | WordPress 📝 | | |
+| TypeScript 🤖 | | RESTful APIs 🌐 | WordPress 📝 | | |
 
-If you're interested in collaborating or want to learn more, feel free to reach out! 🤝🏽
+🤝🏽 **Let's Connect!** If you'd like to collaborate or learn more, feel free to reach out.
 
 <!--
-**SMelidoni/SMelidoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⭐ Bonus: Want a sneak peek of my work? Check out my [portfolio](https://yourportfolio.com)!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**Find me on social media:**\
+🐦 [Twitter](https://twitter.com/yourusername)\
+🔗 [LinkedIn](https://www.linkedin.com/in/yourusername)\
+💼 [Dev.to](https://dev.to/yourusername)
 -->
