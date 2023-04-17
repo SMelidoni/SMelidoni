@@ -4,7 +4,7 @@ I'm passionate about building innovative applications and bringing them to life.
 
 🔧 **Current Project:** [React App Collection](https://github.com/SMelidoni/react-app-collection) (Check the README.md for details)
 
-🕹️ **Working On:** [React Tic-Tac-Toe App](https://github.com/SMelidoni/react-tictactoe-app)
+🕹️ **Working On:** [React Tic-Tac-Toe App](https://github.com/SMelidoni/react-tictactoe-app) (Will be a part of the React App Collection)
 
 ## My Tech Stack 🛠️
 
