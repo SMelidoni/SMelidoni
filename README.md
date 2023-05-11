@@ -2,9 +2,7 @@
 
 I'm passionate about building innovative applications and bringing them to life. Currently, I'm honing my skills in React and TypeScript.
 
-🕹️ **Current Project:** [React App Collection](https://github.com/SMelidoni/react-app-collection) (Check the README.md for details)
-
-🔧 **Working On:** [React To Do App](https://github.com/SMelidoni/react-todo-app) (Will be a part of the React App Collection)
+🔧 **Working On:** [Personal Finance Manager](https://github.com/SMelidoni/personal-finance-manager) (Check the README.md for details)
 
 ## My Tech Stack 🛠️
 
