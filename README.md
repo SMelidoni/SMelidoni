@@ -2,7 +2,7 @@
 
 I'm passionate about building innovative applications and bringing them to life. Currently, I'm honing my skills in React and TypeScript.
 
-🔧 **Working On:** [Personal Finance Manager](https://github.com/SMelidoni/personal-finance-manager) (Check the README.md for details)
+🔧 **Working On:** Personal Finance Manager App 
 
 ## My Tech Stack 🛠️
 
