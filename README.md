@@ -11,12 +11,12 @@ I'm currently in the process of developing a Personal Finance Manager App that a
 
 Here's a sneak peek of the features it will include:
 
-- 💸 **Track Income and Expenses:**
-- 🎯 **Set Monthly Budgets:** 
-- 📊 **Visualize Financial Data:** 
-- 🏦 **Monitor Investments and Savings:**
-- 📥 **Export Financial Data:** 
-- 🔒 **Secure User Authentication:**
+- 💸 **Track Income and Expenses**
+- 🎯 **Set Monthly Budgets** 
+- 📊 **Visualize Financial Data** 
+- 🏦 **Monitor Investments and Savings**
+- 📥 **Export Financial Data** 
+- 🔒 **Secure User Authentication**
 
 This project is being built using:
 
