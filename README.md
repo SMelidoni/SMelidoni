@@ -1,43 +1,33 @@
-# Hello, I'm a Software Engineer and Creator! 🚀👋🏽
+# Hello, I'm a Software Engineer and Creator! 👋🏽💻
 
-I'm passionate about building innovative applications and bringing them to life. Currently, I'm honing my skills in React and TypeScript.
+I'm passionate about crafting innovative applications that solve real-world problems. Currently, I'm sharpening my skills in React and TypeScript.
 
-## 🔧 Working On
-- Personal Finance Manager App 
+## 🔧 Currently Working On
 
-### About My Current Project 🚀
+### Personal Finance Manager App (PFM) 💰🚀
 
-I'm currently in the process of developing a Personal Finance Manager App that aims to help users streamline their financial management. 
+In a world of countless transactions and expenses, having a personal finance manager is no longer a luxury but a necessity. Hence, I'm developing a Personal Finance Manager App to help users optimize their financial management. Here's what you can expect:
 
-Here's a sneak peek of the features it will include:
+- **Track Income and Expenses:** Keep an eye on every penny coming in or going out 💸
+- **Set Monthly Budgets:** Plan ahead, and never overshoot your budget 🎯
+- **Visualize Financial Data:** Understand your financial health better with intuitive graphs 📊
+- **Monitor Investments and Savings:** Keep your future secure by tracking all your assets 🏦
+- **Export Financial Data:** Conveniently export your data for offline usage 📥
+- **Secure User Authentication:** Your financial information stays safe with us 🔒
 
-- 💸 **Track Income and Expenses**
-- 🎯 **Set Monthly Budgets** 
-- 📊 **Visualize Financial Data** 
-- 🏦 **Monitor Investments and Savings**
-- 📥 **Export Financial Data** 
-- 🔒 **Secure User Authentication**
+This project utilizes the power of:
 
-This project is being built using:
+- React, TypeScript, Node.js, and Express.js
 
-- React, TypeScript, Node.js and Express.js
+## 🛠️ My Tech Stack 
 
-## My Tech Stack 🛠️
-
-| <div align="center">💻<br/>Languages</div> | <div align="center">🌐<br/>Frameworks</div> | <div align="center">🧰<br/>Tools & Platforms</div> | <div align="center">🖥️<br/>Front-end</div> | <div align="center">🗄️<br/>Databases</div> | <div align="center">🌟<br/>Miscellaneous</div> |
+| <div align="center">Languages<br/>💻</div> | <div align="center">Frameworks<br/>🌐</div> | <div align="center">Tools & Platforms<br/>🧰</div> | <div align="center">Front-end<br/>🖥️</div> | <div align="center">Databases<br/>🗄️</div> | <div align="center">Miscellaneous<br/>🌟</div> |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | CSS/SASS 🎨 | NestJS 🦁 | Docker 🐳 | Axios 🚀 | MySQL 🐬 | Bootstrap 🥾 |
 | HTML 📄 | Node.js ⬡ | RabbitMQ 🐇 | Figma 🖌️ | PostgreSQL 🐘 | GCP ☁️ |
 | JavaScript ☕ | Spring 🌱 | Redux 🔄 | React ⚛️ | SQL Developer 💾 | Postman 📮 |
 | TypeScript 🤖 | | RESTful APIs 🌐 | WordPress 📝 | | |
 
-🤝🏽 **Let's Connect!** If you'd like to collaborate or learn more, feel free to reach out.
+### 🤝🏽 Let's Connect!
 
-<!--
-⭐ Bonus: Want a sneak peek of my work? Check out my [portfolio](https://yourportfolio.com)!
-
-**Find me on social media:**\
-🐦 [Twitter](https://twitter.com/yourusername)\
-🔗 [LinkedIn](https://www.linkedin.com/in/yourusername)\
-💼 [Dev.to](https://dev.to/yourusername)
--->
+Whether you're interested in collaborating or just want to say hi, I'm all ears! Don't hesitate to reach out.
