@@ -6,7 +6,7 @@ I'm passionate about crafting innovative applications that solve real-world prob
 
 ### Personal Finance Manager App (PFM) 💰🚀
 
-In a world of countless transactions and expenses, having a personal finance manager is no longer a luxury but a necessity. Hence, I'm developing a Personal Finance Manager App to help users optimize their financial management. Here's what you can expect:
+In a world of countless transactions and expenses, having a personal finance manager is no longer a luxury but a necessity. Hence, I'm developing a Personal Finance Manager App to help users optimise their financial management. Here's what you can expect:
 
 - **Track Income and Expenses:** Keep an eye on every penny coming in or going out 💸
 - **Set Monthly Budgets:** Plan ahead, and never overshoot your budget 🎯
@@ -15,7 +15,7 @@ In a world of countless transactions and expenses, having a personal finance man
 - **Export Financial Data:** Conveniently export your data for offline usage 📥
 - **Secure User Authentication:** Your financial information stays safe with us 🔒
 
-This project utilizes the power of:
+This project utilises the power of:
 
 - React, TypeScript, Node.js, and Express.js
 
