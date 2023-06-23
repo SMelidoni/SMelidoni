@@ -24,9 +24,9 @@ This project utilises the power of:
 | <div align="center">Languages<br/>💻</div> | <div align="center">Frameworks<br/>🌐</div> | <div align="center">Tools & Platforms<br/>🧰</div> | <div align="center">Front-end<br/>🖥️</div> | <div align="center">Databases<br/>🗄️</div> | <div align="center">Miscellaneous<br/>🌟</div> |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | CSS/SASS 🎨 | NestJS 🦁 | Docker 🐳 | Axios 🚀 | MySQL 🐬 | Bootstrap 🥾 |
-| HTML 📄 | Node.js ⬡ | RabbitMQ 🐇 | Figma 🖌️ | PostgreSQL 🐘 | GCP ☁️ |
-| JavaScript ☕ | Spring 🌱 | Redux 🔄 | React ⚛️ | SQL Developer 💾 | Postman 📮 |
-| TypeScript 🤖 | | RESTful APIs 🌐 | WordPress 📝 | | |
+| HTML 📄 | Node.js ⬡ |Redux 🔄 | Figma 🖌️ | PostgreSQL 🐘 | GCP ☁️ |
+| JavaScript ☕ | Spring 🌱 | RESTful APIs 🌐 | React ⚛️ | SQL Developer 💾 | Postman 📮 |
+| TypeScript 🤖 | |  | WordPress 📝 | | |
 
 ### 🤝🏽 Let's Connect!
 
