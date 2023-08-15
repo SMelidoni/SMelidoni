@@ -4,20 +4,13 @@ I'm passionate about crafting innovative applications that solve real-world prob
 
 ## 🔧 Currently Working On
 
-### Personal Finance Manager App (PFM) 💰🚀
+#### Personal Finance Manager App (PFM) 💰
 
-In a world of countless transactions and expenses, having a personal finance manager is no longer a luxury but a necessity. Hence, I'm developing a Personal Finance Manager App to help users optimise their financial management. Here's what you can expect:
+The Personal Finance Manager App offers a simplified way for users to monitor and manage their daily transactions and expenses effectively.
 
-- **Track Income and Expenses:** Keep an eye on every penny coming in or going out 💸
-- **Set Monthly Budgets:** Plan ahead, and never overshoot your budget 🎯
-- **Visualize Financial Data:** Understand your financial health better with intuitive graphs 📊
-- **Monitor Investments and Savings:** Keep your future secure by tracking all your assets 🏦
-- **Export Financial Data:** Conveniently export your data for offline usage 📥
-- **Secure User Authentication:** Your financial information stays safe with us 🔒
+#### CoinPulse Crypto App 🪙
 
-This project utilises the power of:
-
-- React, TypeScript, Node.js, and Express.js
+CoinPulse provides real-time updates and insights into the world of cryptocurrencies. It's an essential tool for those keen on tracking crypto investments and market trends.
 
 ## 🛠️ My Tech Stack 
 
