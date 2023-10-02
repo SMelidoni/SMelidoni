@@ -1,6 +1,6 @@
 # Hello, I'm a Software Engineer and Creator! 👋🏽💻
 
-I'm passionate about crafting innovative applications that solve real-world problems. Currently, I'm sharpening my skills in React and TypeScript.
+I'm passionate about crafting innovative applications and delving into new technological horizons. While I'm driven by building applications that address real-world challenges, I also dedicate time to exploring and researching emerging trends and methodologies. Currently, I'm improving my knowledge in React and TypeScript.
 
 ## 🔧 Currently Working On
 
@@ -23,4 +23,4 @@ CoinPulse provides real-time updates and insights into the world of cryptocurren
 
 ### 🤝🏽 Let's Connect!
 
-Whether you're interested in collaborating or just want to say hi, I'm all ears! Don't hesitate to reach out.
+Whether you're interested in collaborating or just want to say hello, I'm all ears! Don't hesitate to reach out.
