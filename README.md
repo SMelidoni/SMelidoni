@@ -8,10 +8,6 @@ I'm passionate about crafting innovative applications and delving into new techn
 
 The Personal Finance Manager App offers a simplified way for users to monitor and manage their daily transactions and expenses effectively.
 
-#### CoinPulse Crypto App 🪙
-
-CoinPulse provides real-time updates and insights into the world of cryptocurrencies. It's an essential tool for those keen on tracking crypto investments and market trends.
-
 ## 🛠️ My Tech Stack 
 
 | <div align="center">Languages<br/>💻</div> | <div align="center">Frameworks<br/>🌐</div> | <div align="center">Tools & Platforms<br/>🧰</div> | <div align="center">Front-end<br/>🖥️</div> | <div align="center">Databases<br/>🗄️</div> | <div align="center">Miscellaneous<br/>🌟</div> |
