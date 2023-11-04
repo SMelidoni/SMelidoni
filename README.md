@@ -8,6 +8,11 @@ I'm passionate about crafting innovative applications and delving into new techn
 
 The Personal Finance Manager App offers a simplified way for users to monitor and manage their daily transactions and expenses effectively.
 
+
+#### React Native Weather App 🌦️
+
+A minimalistic weather app which utilises the OpenWeatherMap API to fetch and display real-time weather data.
+
 ## 🛠️ My Tech Stack 
 
 | <div align="center">Languages<br/>💻</div> | <div align="center">Frameworks<br/>🌐</div> | <div align="center">Tools & Platforms<br/>🧰</div> | <div align="center">Front-end<br/>🖥️</div> | <div align="center">Databases<br/>🗄️</div> | <div align="center">Miscellaneous<br/>🌟</div> |
