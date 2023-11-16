@@ -20,7 +20,7 @@ A minimalistic weather app which utilises the OpenWeatherMap API to fetch and di
 | TypeScript 🤖 | | | WordPress 📝 | | |
 
 ### Connect? 🤝🏽
-I’m open to collaborations and chats. Reach out anytime! 📬
+I’m open to collaborations and chats. Reach out anytime! [📬](mailto:simone.melidoni@outlook.com)
 
 <!--
 # Hello, I'm a Software Engineer!👋🏽💻
