@@ -1,8 +1,9 @@
-### Hello, I'm a Software Engineer 💻
+### Hello, I'm a Software Engineer 👋
 
-Exploring tech, refining skills, building solutions.
+💻 App Developer @interactive-investor  
+🛠️ Exploring tech, refining skills, building solutions
 
-### Current Projects 🔧
+### Current Personal Projects
 
 #### Personal Finance Manager (PFM) App 💰
 The PFM App offers a simplified way for users to monitor and manage their finances.
@@ -10,7 +11,7 @@ The PFM App offers a simplified way for users to monitor and manage their financ
 #### React Native Weather App 🌦️
 A minimalistic weather app which utilises the OpenWeatherMap API to fetch and display real-time weather data.
 
-### Tech Stack 🛠️
+### Tech Stack
 
 | Languages | Frameworks | Tools & Platforms | Front-end | Databases | Miscellaneous |
 | :-------: | :--------: | :---------------: | :-------: | :-------: | :-----------: |
@@ -19,7 +20,7 @@ A minimalistic weather app which utilises the OpenWeatherMap API to fetch and di
 | JavaScript ☕ | Spring 🌱 | RESTful APIs 🌐 | React ⚛️ | SQL Developer 💾 | Postman 📮 |
 | TypeScript 🤖 | | | WordPress 📝 | | |
 
-### Connect? 🤝🏽
+### Connect?
 I’m open to collaborations and chats. Reach out anytime! [📬](mailto:simone.melidoni@outlook.com)
 
 <!--
