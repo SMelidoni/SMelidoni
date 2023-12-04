@@ -1,6 +1,7 @@
 ### Hello, I'm a Software Engineer 👋
 
-💻 App Developer @interactive-investor  
+💻 App Developer @interactive-investor
+
 🛠️ Exploring tech, refining skills, building solutions
 
 ### Current Personal Projects
@@ -13,12 +14,14 @@ A minimalistic weather app which utilises the OpenWeatherMap API to fetch and di
 
 ### Tech Stack
 
-| Languages | Frameworks | Tools & Platforms | Front-end | Databases | Miscellaneous |
-| :-------: | :--------: | :---------------: | :-------: | :-------: | :-----------: |
-| CSS/SASS 🎨 | NestJS 🦁 | Docker 🐳 | Axios 🚀 | MySQL 🐬 | Bootstrap 🥾 |
-| HTML 📄 | Node.js ⬡ | Redux 🔄 | Figma 🖌️ | PostgreSQL 🐘 | GCP ☁️ |
-| JavaScript ☕ | Spring 🌱 | RESTful APIs 🌐 | React ⚛️ | SQL Developer 💾 | Postman 📮 |
-| TypeScript 🤖 | | | WordPress 📝 | | |
+| Languages | Frameworks | Front-end | Databases | Miscellaneous |
+| :-------: | :--------: | :-------: | :-------: | :-----------: |
+| CSS/SASS 🎨 | NestJS 🦁 | Axios 🚀 | MySQL 🐬 | Bootstrap 🥾 |
+| HTML 📄 | Node.js ⬡ | Figma 🖌️ | PostgreSQL 🐘 | Docker 🐳 |
+| Java ☕ | Spring 🌱 | React ⚛️ | |  GCP ☁️ |
+| JavaScript ⚙️ | | Redux 🔄 | | Postman 📮 |
+| TypeScript 🤖 | | | | RESTful APIs 🌐 |
+
 
 ### Connect?
 I’m open to collaborations and chats. Reach out anytime! [📬](mailto:simone.melidoni@outlook.com)
