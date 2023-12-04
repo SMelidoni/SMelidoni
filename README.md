@@ -1,7 +1,6 @@
 ### Hello, I'm a Software Engineer 👋
 
 💻 App Developer @interactive-investor
-
 🛠️ Exploring tech, refining skills, building solutions
 
 ### Current Personal Projects
