@@ -5,52 +5,41 @@
 
 ### Current Personal Projects
 
-#### Personal Finance Manager (PFM) App 💰
-The PFM App offers a simplified way for users to monitor and manage their finances.
+**Personal Finance Manager (PFM) App** 💰
+- The PFM App offers a simplified way for users to monitor and manage their finances.
 
-#### React Native Weather App 🌦️
-A minimalistic weather app which utilises the OpenWeatherMap API to fetch and display real-time weather data.
+**React Native Weather App** 🌦️ 
+- A minimalistic weather app which utilises the OpenWeatherMap API to fetch and display real-time weather data.
 
 ### Tech Stack
 
-| Languages | Frameworks | Front-end | Databases | Miscellaneous |
-| :-------: | :--------: | :-------: | :-------: | :-----------: |
-| CSS/SASS 🎨 | NestJS 🦁 | Axios 🚀 | MySQL 🐬 | Bootstrap 🥾 |
-| HTML 📄 | Node.js ⬡ | Figma 🖌️ | PostgreSQL 🐘 | Docker 🐳 |
-| Java ☕ | Spring 🌱 | React ⚛️ | |  GCP ☁️ |
-| JavaScript ⚙️ | | Redux 🔄 | | Postman 📮 |
-| TypeScript 🤖 | | | | RESTful APIs 🌐 |
-
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/)
+[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)](https://www.atlassian.com/software/jira)
+[![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)](https://mariadb.org/)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
+[![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![npm](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
+[![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactnative.dev/)
+[![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
+[![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
+[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+[![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
+[![Yarn](https://img.shields.io/badge/Yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)](https://yarnpkg.com/)
 
 ### Connect?
 I’m open to collaborations and chats. Reach out anytime! [📬](mailto:simone.melidoni@outlook.com)
-
-<!--
-# Hello, I'm a Software Engineer!👋🏽💻
-
-I'm passionate about crafting innovative applications and delving into new technological horizons. While I'm driven by building applications that address real-world challenges, I also dedicate time to exploring and researching emerging trends and methodologies. Currently, I'm improving my knowledge in React and TypeScript.
-
-## 🔧 Currently Working On
-
-#### Personal Finance Manager App (PFM) 💰
-
-The Personal Finance Manager App offers a simplified way for users to monitor and manage their daily transactions and expenses effectively.
-
-
-#### React Native Weather App 🌦️
-
-A minimalistic weather app which utilises the OpenWeatherMap API to fetch and display real-time weather data.
-
-## 🛠️ My Tech Stack 
-
-| <div align="center">Languages<br/>💻</div> | <div align="center">Frameworks<br/>🌐</div> | <div align="center">Tools & Platforms<br/>🧰</div> | <div align="center">Front-end<br/>🖥️</div> | <div align="center">Databases<br/>🗄️</div> | <div align="center">Miscellaneous<br/>🌟</div> |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| CSS/SASS 🎨 | NestJS 🦁 | Docker 🐳 | Axios 🚀 | MySQL 🐬 | Bootstrap 🥾 |
-| HTML 📄 | Node.js ⬡ | Redux 🔄 | Figma 🖌️ | PostgreSQL 🐘 | GCP ☁️ |
-| JavaScript ☕ | Spring 🌱 | RESTful APIs 🌐 | React ⚛️ | SQL Developer 💾 | Postman 📮 |
-| TypeScript 🤖 | | | WordPress 📝 | | |
-
-### 🤝🏽 Let's Connect!
-
-Whether you're interested in collaborating or just want to say hello, I'm all ears! Don't hesitate to reach out.
--->
