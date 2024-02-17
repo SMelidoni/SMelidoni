@@ -1,4 +1,4 @@
-### Hi there, I'm a Software Engineer 👨‍💻
+### Hi there, I'm a Software Engineer 👋
 
 - 💻 App Developer @interactive-investor
 - 🚀 Exploring tech, refining skills, building solutions
