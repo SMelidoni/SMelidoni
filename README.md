@@ -5,8 +5,8 @@
 
 ### Current Personal Projects
 
+- 🌿 **Stoic App**: A minimalistic mobile app providing daily stoic wisdom, quotes, and reflections to cultivate mindfulness and a balance.
 - 💰 **Personal Finance Manager (PFM) App**: A tool which offers a simplified way for users to monitor and manage their finances.
-- 🌦️ **React Native Weather App**: A weather app which utilises the OpenWeatherMap API to fetch and display real-time weather data.
 
 ### Tech Stack
 
