@@ -5,7 +5,7 @@
 
 ### Current Personal Projects
 
-- 🌿 **Stoic App**: A minimalistic mobile app providing daily stoic wisdom, quotes, and reflections to cultivate mindfulness and a balance.
+- 🌿 **Stoic App**: A minimalistic mobile app providing daily stoic wisdom, quotes, and reflections to cultivate mindfulness and balance.
 - 💰 **Personal Finance Manager (PFM) App**: A tool which offers a simplified way for users to monitor and manage their finances.
 
 ### Tech Stack
