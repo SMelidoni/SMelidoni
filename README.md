@@ -6,12 +6,12 @@ Software Engineer & Product Builder — building mindful, minimal digital tools.
 - 💻 Software Engineer @ interactive investor
 - 🚀 Always learning, building, and refining
 
-##### Current Personal Projects
+#### Current Personal Projects
 
 - 🌿 [**Stoic App**](https://stoic-app.com) – Minimal daily stoic wisdom, quotes, and reflections to cultivate mindfulness and balance. _[Coming soon]_
 - 💰 **Personal Finance Manager (PFM) App**: A tool which offers a simplified way for users to monitor and manage their finances.
 
-##### Tech Stack
+#### Tech Stack
 
 
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
@@ -28,7 +28,7 @@ Software Engineer & Product Builder — building mindful, minimal digital tools.
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 
-##### Let's Connect
+#### Let's Connect
 I’m open to collaborations and chats. Reach out anytime! [📬](mailto:simone.melidoni@outlook.com)
 
 <!--
