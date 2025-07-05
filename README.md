@@ -11,6 +11,10 @@ Software Engineer & Product Builder — building mindful, minimal digital tools.
 - 🌿 [**Stoic App**](https://stoic-app.com) – Minimal daily stoic wisdom, quotes, and reflections to cultivate mindfulness and balance. _[Coming soon]_
 - 💰 **Personal Finance Manager (PFM) App**: A tool which offers a simplified way for users to monitor and manage their finances.
 
+#### Let's Connect
+I’m open to collaborations and chats. Reach out anytime! [📬](mailto:simone.melidoni@outlook.com)
+
+<!--
 #### Tech Stack
 
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -24,10 +28,6 @@ Software Engineer & Product Builder — building mindful, minimal digital tools.
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 
-#### Let's Connect
-I’m open to collaborations and chats. Reach out anytime! [📬](mailto:simone.melidoni@outlook.com)
-
-<!--
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/)
 [![Chakra UI](https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakraui&logoColor=white)](https://chakra-ui.com/)
