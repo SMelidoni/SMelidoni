@@ -1,7 +1,7 @@
 ### Hi, I'm Simone 👋
 <sup>_pronounced: see-MOH-neh_</sup>
 
-Software Engineer & Product Builder — building mindful, minimal digital tools.
+Software Engineer – focused on modern web and mobile development.
 
 - 💻 Software Engineer @ interactive investor
 - 🚀 Always learning, building, and refining
