@@ -3,7 +3,7 @@
 
 Software Engineer – focused on modern web and mobile development.
 
-- 💻 Software Engineer @ interactive investor
+- 💻 Software Engineer @ [interactive investor](https://www.ii.co.uk/)
 - 🚀 Always learning, building, and refining
 
 #### Current Personal Projects
