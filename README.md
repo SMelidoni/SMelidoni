@@ -4,7 +4,7 @@
 Software Engineer – focused on modern web and mobile development.
 
 - 💻 Software Engineer @ [interactive investor](https://www.ii.co.uk/)
-- 🌊 Founder @ [Zenshuii](https://zenshuii.com)
+- 🪷 Founder @ [Zenshuii](https://zenshuii.com)
 - 🚀 Always learning, building, and refining
 
 #### Current Personal Projects
