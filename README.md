@@ -9,7 +9,7 @@ Software Engineer – focused on modern web and mobile development.
 
 #### Current Personal Projects
 
-- 🌿 [**Stoic App**](https://stoic-app.com) – Minimal daily stoic wisdom, quotes, and reflections to cultivate mindfulness and balance. _[Coming soon]_
+- 🌿 [**Stoic App**](https://stoic-app.com) – Daily stoic wisdom, quotes, and guided journaling to cultivate mindfulness and balance. _Launching soon_
 
 #### Let's Connect
 I’m open to collaborations and chats. Reach out anytime! [📬](mailto:simone.melidoni@outlook.com)
